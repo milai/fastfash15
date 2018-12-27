@@ -6,3 +6,6 @@ forth modify
 this is for  dev`
 
 devv
+this is for  devi`
+
+"this is devv"
